@@ -8,3 +8,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Github stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+
+![counter](https://ena7fbetz4jjo2a.m.pipedream.net)
